@@ -1,0 +1,11 @@
+C:\Users\steph\OneDrive\Desktop\ConsoleWebApp\ConsoleWebApp\bin\Debug\ConsoleWebApp.exe.config
+C:\Users\steph\OneDrive\Desktop\ConsoleWebApp\ConsoleWebApp\bin\Debug\ConsoleWebApp.exe
+C:\Users\steph\OneDrive\Desktop\ConsoleWebApp\ConsoleWebApp\bin\Debug\ConsoleWebApp.pdb
+C:\Users\steph\OneDrive\Desktop\ConsoleWebApp\ConsoleWebApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\steph\OneDrive\Desktop\ConsoleWebApp\ConsoleWebApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\steph\OneDrive\Desktop\ConsoleWebApp\ConsoleWebApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\steph\OneDrive\Desktop\ConsoleWebApp\ConsoleWebApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\steph\OneDrive\Desktop\ConsoleWebApp\ConsoleWebApp\obj\Debug\ConsoleWebApp.csproj.AssemblyReference.cache
+C:\Users\steph\OneDrive\Desktop\ConsoleWebApp\ConsoleWebApp\obj\Debug\ConsoleWebApp.csproj.CoreCompileInputs.cache
+C:\Users\steph\OneDrive\Desktop\ConsoleWebApp\ConsoleWebApp\obj\Debug\ConsoleWebApp.exe
+C:\Users\steph\OneDrive\Desktop\ConsoleWebApp\ConsoleWebApp\obj\Debug\ConsoleWebApp.pdb
